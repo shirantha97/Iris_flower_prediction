@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="919936e9-939b-4e23-a2e1-4492393ca8b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YhgCrYZlif57gBj16qovtt9q2P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/IT17127288_Iris Flower Dataset_prediction.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shirantha Herath\PycharmProjects\untitled" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Iris Flower Dataset_prediction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pythin_basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Shirantha Herath\PycharmProjects\untitled\Iris Flower Dataset_prediction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Iris Flower Dataset_prediction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="919936e9-939b-4e23-a2e1-4492393ca8b2" name="Default Changelist" comment="" />
+      <created>1583400115684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583400115684</updated>
+      <workItem from="1583400120047" duration="1614000" />
+      <workItem from="1584182194541" duration="898000" />
+      <workItem from="1585754154677" duration="2768000" />
+      <workItem from="1586421159127" duration="3887000" />
+      <workItem from="1586630159812" duration="1230000" />
+      <workItem from="1586679945439" duration="4319000" />
+      <workItem from="1586797418720" duration="48898000" />
+      <workItem from="1587506789997" duration="3966000" />
+      <workItem from="1587543965030" duration="1059000" />
+      <workItem from="1587656364804" duration="12432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587226723276">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587226723276" />
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1587226716320">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587226716320" />
+    <state width="1323" height="381" key="GridCell.Tab.0.bottom" timestamp="1587672063326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="381" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587672063326" />
+    <state width="1323" height="381" key="GridCell.Tab.0.center" timestamp="1587672063326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="381" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587672063326" />
+    <state width="1323" height="381" key="GridCell.Tab.0.left" timestamp="1587672063326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="381" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587672063326" />
+    <state width="1323" height="381" key="GridCell.Tab.0.right" timestamp="1587672063326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="381" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587672063326" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586802511951">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586802511951" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587656398498">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587656398498" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pythin_basics$Iris_Flower_Dataset_prediction.coverage" NAME="Iris Flower Dataset_prediction Coverage Results" MODIFIED="1587671739662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pythin_basics$IF_else.coverage" NAME="IT17127288_Iris Flower Dataset_prediction Coverage Results" MODIFIED="1587226912776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
